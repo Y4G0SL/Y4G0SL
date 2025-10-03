@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yago Soares
 - 👀 I’m interested in technology, gaming, computing...
-- 🌱 I’m currently learning Python and Data science
+- 🌱 I’m currently Data science and Analytics
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me: yagosl2000@gmail.com is my personal e-mail, please identify yourself as directed from github.
 - 😄 Pronouns: ...
